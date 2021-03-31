@@ -38,5 +38,5 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[GoogleScholar](http://scholar.google.com/citations?user=TBPQ_IYAAAAJ&hl=zh-CN) and ![Image](http://static.runoob.com/images/runoob-logo.png)
+[GoogleScholar URL](http://scholar.google.com/citations?user=TBPQ_IYAAAAJ&hl=zh-CN) 
 
