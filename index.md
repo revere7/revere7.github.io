@@ -1,5 +1,5 @@
 <table border="1">
-  <tr style="height:100px">
+  <tr style="height:40px">
     <td width="75%">
       <h1>Kangkang Wei</h1>
       <p><b>PhD student</b></p>
@@ -8,7 +8,7 @@
       <p><b>Email: weikk5@mail2.sysu.edu.cn and revere.wei@outlook.com</b></p>
     </td>
     <td width="25%">
-      <img src="/1c.jpg" width="100%">     
+      <img src="/1c.jpg">     
     </td>
   </tr>
 </table>
