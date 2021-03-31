@@ -1,14 +1,12 @@
-# Kangkang Wei
-
 <table border="0">
   <tr>
     <td width="75%">
       <h1>Kangkang Wei</h1>
-      <p><b>PhD</b></p>
+      <p><b>PhD student</b></p>
       <p><b>Sun Yat-sen University</b></p>
     </td>
     <td width="25%">
-      <img src="//1c.jpg" width="100%">     
+      <img src="/1c.jpg" width="100%">     
     </td>
   </tr>
 </table>
