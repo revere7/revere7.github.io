@@ -4,6 +4,7 @@
       <h1>Kangkang Wei</h1>
       <p><b>PhD student</b></p>
       <p><b>Sun Yat-sen University</b></p>
+      <p><b>Email: weikk5@mail2.sysu.edu.cn and revere.wei@outlook.com</b></p>
     </td>
     <td width="25%">
       <img src="/1c.jpg" width="100%">     
@@ -33,10 +34,7 @@
 
 - 132 East Waihuan Road, Guangzhou Higher Education Mega Center, Guangzhou 510006, P.R. China
 
-- E-mail: weikk5@mail2.sysu.edu.cn
-
+[GoogleScholar URL](http://scholar.google.com/citations?user=TBPQ_IYAAAAJ&hl=zh-CN) 
 
 **Bold** and _Italic_ and `Code` text
-
-[GoogleScholar URL](http://scholar.google.com/citations?user=TBPQ_IYAAAAJ&hl=zh-CN) 
 
