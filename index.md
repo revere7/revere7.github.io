@@ -1,5 +1,4 @@
 
-```markdown
 Syntax highlighted code block
 
 # Kangkang Wei
@@ -15,4 +14,4 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
