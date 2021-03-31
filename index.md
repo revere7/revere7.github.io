@@ -1,5 +1,6 @@
 # Kangkang Wei
 ## Personal Information
+Bulleted Bulleted BulletedBulleted
 ### Header 3
 
 - Bulleted
@@ -10,5 +11,5 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](http://baidu.com) and ![Image](src)
+[LinkTest](http://www.baidu.com) and ![Image](src)
 
