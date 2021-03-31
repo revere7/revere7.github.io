@@ -25,5 +25,5 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[LinkTest](http://www.baidu.com) and ![Image](src)
+[LinkTest](http://www.baidu.com) and ![Image](http://static.runoob.com/images/runoob-logo.png)
 
