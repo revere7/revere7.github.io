@@ -1,8 +1,9 @@
-<table border="0">
+<table border="1">
   <tr>
     <td width="75%">
       <h1>Kangkang Wei</h1>
       <p><b>PhD student</b></p>
+      <p><b>School of Computer Science</b></p>
       <p><b>Sun Yat-sen University</b></p>
       <p><b>Email: weikk5@mail2.sysu.edu.cn and revere.wei@outlook.com</b></p>
     </td>
@@ -13,7 +14,7 @@
 </table>
 
 ## Personal Information
-- I received M.S degree in Jiangxi University of Finance and Economics, Nanchang, China in 2020. Then I am pursing PhD degree in School of Computer Science, Sun Yat-sen University, Guangzhou, China.
+- I received M.S degree in Jiangxi University of Finance and Economics, Nanchang, China in 2020. Then I am pursuing PhD degree in School of Computer Science, Sun Yat-sen University, Guangzhou, China.
 
 ## Research Area
 - Steganography and Steganalysis
@@ -34,7 +35,8 @@
 
 - 132 East Waihuan Road, Guangzhou Higher Education Mega Center, Guangzhou 510006, P.R. China
 
+
 [GoogleScholar URL](http://scholar.google.com/citations?user=TBPQ_IYAAAAJ&hl=zh-CN) 
 
-**Bold** and _Italic_ and `Code` text
+
 
