@@ -1,5 +1,5 @@
 <table border="1">
-  <tr style="height:30px">
+  <tr>
     <td width="75%">
       <h1>Kangkang Wei</h1>
       <p><b>PhD student</b></p>
