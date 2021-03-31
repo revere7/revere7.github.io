@@ -1,7 +1,8 @@
 # Kangkang Wei
+![Image](https://github.com/revere7/revere7.github.io/blob/main/1c.jpg)
 
 ## Personal Information
-- I received M.S degree in Jiangxi University of Finance and Economics, Nanchang, China in 2020. Then I am pursing PhD degree in School of  Computer Science, Sun Yat-sen University.
+- I received M.S degree in Jiangxi University of Finance and Economics, Nanchang, China in 2020. Then I am pursing PhD degree in School of Computer Science, Sun Yat-sen University, Guangzhou, China.
 
 ## Research Area
 - Steganography and Steganalysis
