@@ -1,5 +1,17 @@
 # Kangkang Wei
-![Image](https://github.com/revere7/revere7.github.io/blob/main/1c.jpg)
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Kangkang Wei</h1>
+      <p><b>PhD</b></p>
+      <p><b>Sun Yat-sen University</b></p>
+    </td>
+    <td width="25%">
+      <img src="//1c.jpg" width="100%">     
+    </td>
+  </tr>
+</table>
 
 ## Personal Information
 - I received M.S degree in Jiangxi University of Finance and Economics, Nanchang, China in 2020. Then I am pursing PhD degree in School of Computer Science, Sun Yat-sen University, Guangzhou, China.
@@ -28,5 +40,5 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[LinkTest](http://www.baidu.com) and ![Image](http://static.runoob.com/images/runoob-logo.png)
+[GoogleScholar](http://scholar.google.com/citations?user=TBPQ_IYAAAAJ&hl=zh-CN) and ![Image](http://static.runoob.com/images/runoob-logo.png)
 
