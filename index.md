@@ -1,8 +1,5 @@
-
-Syntax highlighted code block
-
 # Kangkang Wei
-## Header 2
+## Personal Information
 ### Header 3
 
 - Bulleted
@@ -13,5 +10,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](http://baidu.com) and ![Image](src)
 
