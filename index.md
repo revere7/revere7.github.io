@@ -1,9 +1,9 @@
 # Kangkang Wei
 ## Personal Information
-Bulleted Bulleted BulletedBulleted
-### Header 3
-
 - Bulleted
+- List
+### Published Papers
+- [1] Kangkang Wei, Wenying Wen, Yuming Fang, Light field image encryption based on spatial-angular characteristic
 - List
 
 1. Numbered
