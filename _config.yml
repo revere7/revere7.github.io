@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Kangkang Wei(魏康康)"
+  name             : "Kangkang Wei"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Sun Yat-sen University"
   location         : "Guangzhou, China"
