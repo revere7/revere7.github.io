@@ -9,12 +9,12 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
 
   - title: "Projects"
     url: "/#-educations"
 
+  - title: "Academic activity"
+    url: "/#-honors-and-awards"
 
   - title: "Resources"
     url: "/#-internships"
