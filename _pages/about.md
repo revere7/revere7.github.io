@@ -19,14 +19,15 @@ redirect_from:
 
 
 # 🧑‍🏫 Biography
-I received a Ph.D. degree in School of Computer Science and Technology from Sun Yat-sen University (Major: Cyberspace Security), Guangzhou, China, in June. 2024. I am currently working toward in Information and Telecommunication Engineering at the School of Electronics and Information
+My Name is Kangkang Wei (魏康康). I received the Ph.D. degree in School of Computer Science and Technology from Sun Yat-sen University (Major: Cyberspace Security), Guangzhou, China, in June. 2024. I am currently a lecture with the School of Electronics and Information, University. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Multimedia content security (e.g., steganalysis and steganography) and forensics (e.g. AGI and deepfake detection). I have published more than 15 papers at the mainstream journal and  international conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>200+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 A paper is accept ipsum dolor sit amet, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10*: &nbsp;🎉🎉 A paper is submitted by the IEEE Transactions on Network Science and Engineering. (about adversarial attack)
+- *2023.10*: &nbsp;🎉🎉 A paper is accepted by the Journal of Software. (CCF-A 中文) 
+- *2023.10*: &nbsp;🎉🎉 A paper is accepted by the Journal of Computer Science and Technology. (CCF-B). 
 
 # 📝 Publications 
 
@@ -42,16 +43,21 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- [1] Wenying Wen, **Kangkang Wei**, Yuming Fang, Yushu Zhang. Visual quality assessment for perceptually encrypted light field images. IEEE Transactions on Circuits and Systems for Video Technology, 31(7): 2522-2534, 2020.
-- [2] **Kangkang Wei**, Wenying Wen, Yuming Fang. Light field image encryption based on spatial-angular characteristic[J]. Signal Processing, 185: 108080, 2021.
+- [1] **Kangkang Wei**, Weiqi Luo, Shunquan Tan, and Jiwu Huang. Universal deep network for steganalysis of color image based on channel representation. IEEE Transactions on Information Forensics and Security, 17: 3022-3036, 2022. (CCF-A)
+- [2] 魏康康，骆伟祺，刘明林。基于中心差分卷积和注意力的空域彩色图像隐写分析。软件学报，2024。(Online)
+- [3] **Kangkang Wei**, Weiqi Luo, Shunquan Tan, Jiwu Huang. CTNet: A convolutional Transformer network for color image steganalysis. Journal of Computer Science and Technology, 2023. (CCF-B, Accepted)
+- [4] **Kangkang Wei**, Weiqi Luo, Minlin Liu, and Miaoxin Ye. Residual guided coordinate attention for selection channel aware image steganalysis. Multimedia Systems, 29(4): 2125-2135, 2023. (CCF-C)
+- [5] **Kangkang Wei**, Wenying Wen, Yuming Fang. Light field image encryption based on spatial-angular characteristic. Signal Processing, 185: 108080, 2021.
+- [6] Wenying Wen, **Kangkang Wei**, Yuming Fang, Yushu Zhang. Visual quality assessment for perceptually encrypted light field images. IEEE Transactions on Circuits and Systems for Video Technology, 31(7): 2522-2534, 2020.
+- [7]  Wenying Wen, **Kangkang Wei**, Yushu Zhang, Yuming Fang, and Ming Li. Colour light field image encryption based on DNA sequences and chaotic systems. Nonlinear Dynamics,  99: 1587-1600, 2020.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Projects
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06 - 2022.04 (now)*, Null. 
+- *2020.01 - 2023.12, NSFC.  
 
 
 # 💬 Invited Talks
