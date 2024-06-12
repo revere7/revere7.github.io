@@ -44,6 +44,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 - [1] Wenying Wen, **Kangkang Wei**, Yuming Fang, Yushu Zhang. Visual quality assessment for perceptually encrypted light field images. IEEE Transactions on Circuits and Systems for Video Technology, 31(7): 2522-2534, 2020.
+- [2] **Kangkang Wei**, Wenying Wen, Yuming Fang. Light field image encryption based on spatial-angular characteristic[J]. Signal Processing, 185: 108080, 2021.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
