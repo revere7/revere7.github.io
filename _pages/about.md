@@ -34,8 +34,8 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉🎉 A paper is submitted by the IEEE Transactions on Information Forensics and Security. (about steganalysis)
-- *2024.04*: &nbsp;🎉🎉 A paper is submitted by the IEEE Transactions on Network Science and Engineering. (about adversarial attack)
+- *2024.04*: &nbsp;🎉🎉 A paper has been submitted to the IEEE Transactions on Information Forensics and Security. (about steganalysis)
+- *2024.04*: &nbsp;🎉🎉 A paper has been submitted to the IEEE Transactions on Network Science and Engineering. (about adversarial attack)
 - *2023.10*: &nbsp;🎉🎉 A paper is accepted by the Journal of Software. (CCF-A) 
 - *2023.10*: &nbsp;🎉🎉 A paper is accepted by the Journal of Computer Science and Technology. (CCF-B). 
 
