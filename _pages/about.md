@@ -72,7 +72,7 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 
 
 # 🎖 Academic activity
-- *2020.01-now*： Reviewer：IEEE TIFS, IEEE TDSC, ACM MM, IEEE SPL et al.. 
+- *2020.01-now*： Reviewer：IEEE TIFS, IEEE TDSC, IEEE TMM, IEEE SPL, and ACM MM, et al.. 
 
 
 
@@ -81,8 +81,7 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 
 
 # 🧑‍🎓 People
-- *2024.09*, --. 
-- If you are willing to study and conduct research with me, please contact my Email：kkangwei@foxmail.com/kkwei@ncu.edu.cn.
+- *2024.07-now*: If you are willing to study and conduct research with me, please contact my Email：kkangwei@foxmail.com/kkwei@ncu.edu.cn.
 
 # 🗺️ Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
