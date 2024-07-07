@@ -30,19 +30,7 @@ My research interest includes multimedia content security (e.g., steganalysis an
 - *2023.10*: &nbsp;🎉🎉 A paper is accepted by the Journal of Computer Science and Technology. (CCF-B). 
 
 # 📝 Publications 
-
-%<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-%<div class='paper-box-text' markdown="1">
-
-%[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-%**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-%[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span %class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-%- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-%</div>
-%</div>
-
+## Journal
 - [1] **Kangkang Wei**, Weiqi Luo, Shunquan Tan, and Jiwu Huang. Universal deep network for steganalysis of color image based on channel representation. IEEE Transactions on Information Forensics and Security, 17: 3022-3036, 2022. (CCF-A)
 - [2] **魏康康**，骆伟祺，刘明林。基于中心差分卷积和注意力的空域彩色图像隐写分析。软件学报，2024。(Online)
 - [3] **Kangkang Wei**, Weiqi Luo, Shunquan Tan, Jiwu Huang. CTNet: A convolutional Transformer network for color image steganalysis. Journal of Computer Science and Technology, 2023. (CCF-B, Accepted)
@@ -53,7 +41,7 @@ My research interest includes multimedia content security (e.g., steganalysis an
 
 
 # 📖 Projects
-- *2024.06 - 2022.04 (now)*, Null. 
+<!-- - *2024.06 - 2022.04 (now)*, Null. --> 
 - *2020.01 - 2023.12, NSFC.  
 
 
