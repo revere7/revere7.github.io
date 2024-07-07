@@ -21,12 +21,12 @@ redirect_from:
 # 🧑‍🏫 Biography
 My Name is Kangkang Wei (魏康康). I received the Ph.D. degree (Major: Cyberspace Security) in School of Computer Science and Technology from Sun Yat-sen University, Guangzhou, China, in June 2024. I am currently a lecture with the School of Software (School of Cyberspace Security), Nanchang University. 
 
-My research interest includes **multimedia content security (e.g., steganalysis and steganography) and multimedia forensics (e.g. AGI and deepfake detection)**. I have published more than 15+ papers at the mainstream journal and international conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>200+</span></strong>.
+My research interest includes **multimedia content security (e.g., steganalysis and steganography) and multimedia forensics (e.g. AI generated image (AGI) and deepfake detection)**. I have published more than 15+ papers at the mainstream journal and international conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>200+</span></strong>.
 
 ## Research interest
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Model</div><img src='images/relation.png' alt="sym" width="120%"></div></div>
 <div class='paper-box-text' markdown="1">
-- Figure: A common model used to explain the dynamics and interactions of steganography and steganalysis involves three characters: Alice, Wendy, and Bob. 
+- Figure caption: A common model used to explain the dynamics and interactions of steganography and steganalysis involves three characters: Alice, Wendy, and Bob. 
 </div>
 </div>
 
@@ -77,7 +77,7 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 
 
 # 📢 Resources
-- *2024.09*, Teach course: Data structure (undergraduate), corresponding PPT. \| [\[video\]](https://github.com/)
+- *2024.09*, Teach course: Data structure (undergraduate), corresponding PPT. \| [\[PPT\]](https://github.com/)
 
 
 # 🧑‍🎓 People
