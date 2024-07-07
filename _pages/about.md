@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 🧑‍🏫 Biography
-My Name is Kangkang Wei (魏康康). I received the Ph.D. degree in School of Computer Science and Technology from Sun Yat-sen University (Major: Cyberspace Security), Guangzhou, China, in June. 2024. I am currently a lecture with the School of Electronics and Information, University. 
+My Name is Kangkang Wei (魏康康). I received the Ph.D. degree in School of Computer Science and Technology from Sun Yat-sen University (Major: Cyberspace Security), Guangzhou, China, in June. 2024. I am currently a lecture with the School of Electronics and Information, Nanchang University. 
 
 My research interest includes Multimedia content security (e.g., steganalysis and steganography) and forensics (e.g. AGI and deepfake detection). I have published more than 15 papers at the mainstream journal and  international conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>200+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
