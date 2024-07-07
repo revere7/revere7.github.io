@@ -23,6 +23,21 @@ My Name is Kangkang Wei (魏康康). I received the Ph.D. degree (Major: Cybersp
 
 My research interest includes **multimedia content security (e.g., steganalysis and steganography) and multimedia forensics (e.g. AGI and deepfake detection)**. I have published more than 15+ papers at the mainstream journal and international conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>200+</span></strong>.
 
+## Research interest
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+
 
 # 🔥 News
 - *2024.04*: &nbsp;🎉🎉 A paper is submitted by the IEEE Transactions on Information Forensics and Security. (about steganalysis)
