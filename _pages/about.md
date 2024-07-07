@@ -26,7 +26,7 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 ## Research interest
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Model</div><img src='images/relation.png' alt="sym" width="120%"></div></div>
 <div class='paper-box-text' markdown="1">
-- A common model used to explain the dynamics and interactions of steganography and steganalysis involves three characters: Alice, Wendy, and Bob. 
+- Figure: A common model used to explain the dynamics and interactions of steganography and steganalysis involves three characters: Alice, Wendy, and Bob. 
 </div>
 </div>
 
