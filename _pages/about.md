@@ -24,9 +24,9 @@ My Name is Kangkang Wei (魏康康). I received the Ph.D. degree (Major: Cybersp
 My research interest includes **multimedia content security (e.g., steganalysis and steganography) and multimedia forensics (e.g. AGI and deepfake detection)**. I have published more than 15+ papers at the mainstream journal and international conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>200+</span></strong>.
 
 ## Research interest
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/relation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Model</div><img src='images/relation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A common model used to explain the dynamics and interactions of steganography and steganalysis involves three characters: Alice, Wendy, and Bob. 
 </div>
 </div>
 
