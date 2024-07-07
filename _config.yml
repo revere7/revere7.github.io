@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Kangkang Wei"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Lecture with the School of Software, Nanchang University. "
+repository               : "revere7/revere7.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kangkang Wei"
   avatar           : "images/wkk.jpg"
-  bio              : "Sun Yat-sen University"
-  location         : "Guangzhou, China"
+  bio              : "Nanchang University"
+  location         : "Nanchang, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  email            : "kkwei@ncu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://www.github.com/revere7"
   google_plus      :
   keybase          :
   instagram        :
