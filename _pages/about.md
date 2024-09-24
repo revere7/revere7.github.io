@@ -21,7 +21,7 @@ redirect_from:
 # 🧑‍🏫 Biography
 My Name is Kangkang Wei (魏康康). I received the Ph.D. degree (Major: Cyberspace Security) in School of Computer Science and Technology from Sun Yat-sen University, Guangzhou, China, in June 2024. I am currently a lecture with the School of Software (School of Cyberspace Security), Nanchang University. 
 
-My research interest includes **multimedia content security (e.g., steganalysis and steganography) and multimedia forensics (e.g. AI generated image (AGI) and deepfake detection)**. I have published more than 15+ papers at the mainstream journal and international conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>200+</span></strong>.
+My research interest includes **multimedia content security (e.g., steganalysis and steganography) and multimedia forensics (e.g. AI generated image (AGI) and deepfake detection)**. I have published more than 15+ papers at the mainstream journal and international conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>220+</span></strong>.
 
 ## Research interest
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Model</div><img src='images/relation.png' alt="sym" width="120%"></div></div>
@@ -34,6 +34,7 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 A project is approved for hosting.
 - *2024.04*: &nbsp;🎉🎉 A paper has been submitted to the IEEE Transactions on Information Forensics and Security. (about steganalysis)
 - *2024.04*: &nbsp;🎉🎉 A paper has been submitted to the IEEE Transactions on Network Science and Engineering. (about adversarial attack)
 - *2023.10*: &nbsp;🎉🎉 A paper is accepted by the Journal of Software. (CCF-A) 
@@ -67,8 +68,7 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 
 
 # 📖 Projects
-<!-- - *2024.06 - 2022.04 (now)*, Null. --> 
-<!-- - *2020.01 - 2023.12, NSFC. --> 
+<!-- - *2024.10 - 2026.10*, Intelligent Policing and National Security Risk Management Laboratory, Open Projects, ZHKFQN2401, Chair. 
 
 
 # 🎖 Academic activity
@@ -77,11 +77,13 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 
 
 # 📢 Resources
-- *2024.09*, Teach course: Data structure (undergraduate), corresponding PPT. \| [\[PPT\]](https://github.com/)
+Teach course:
+- *2024.09-2025.02*,  Data structure (undergraduate), corresponding PPT. \| [\[PPT\]](https://github.com/)
+- *2025.03-2025.07*, Software supply-chain security (graduate). 
 
 
 # 🧑‍🎓 People
-- *2024.07-now*: If you are willing to study and conduct research with me, please contact my Email：kkangwei@foxmail.com/kkwei@ncu.edu.cn.
+- *2024.07-now*: If you are willing to study and conduct research with me, please contact my Email：kkwei@ncu.edu.cn.
 
 # 🗺️ Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
