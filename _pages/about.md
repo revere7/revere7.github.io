@@ -81,13 +81,15 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 
 
 # 📢 Resources
-Teach course:
-- *2024.09-2025.02*,  Data structure (undergraduate), corresponding PPT. \| [\[PPT\]](https://github.com/)
-- *2025.03-2025.07*, Software supply-chain security (graduate). 
+The courses I teach:
+- *2024.09-2025.01*,  Data structure (Undergraduate student).
+- *2025.02-2025.06*, Software supply-chain security (Graduate student). 
 
 
 # 🧑‍🎓 People
-- *2024.07-now*: If you are willing to study and conduct research with me, please contact my Email：kkwei@ncu.edu.cn.
+- Graduate student: Xiuyao Hao
+- Undergraduate student: Qianqian Wang, yifei Huang, Junhao Liu
+- The research group is recuriting students: If you are willing to study and conduct research with me, please contact my Email：kkwei@ncu.edu.cn.
 
 # 🗺️ Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
