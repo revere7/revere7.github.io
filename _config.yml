@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kangkang Wei"
-description              : "Lecture with the School of Software. "
+description              : "Lecture with the School of Software (School of Cyberspace Security). "
 repository               : "revere7/revere7.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Nanchang, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=JMhEzSgAAAAJ&hl=zh-CN"
   email            : "kkwei@ncu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
