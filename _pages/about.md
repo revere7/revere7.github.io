@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 🧑‍🏫 Biography
-My Name is Kangkang Wei. I received the Ph.D. degree in School of Computer Science and Technology from Sun Yat-sen University, Guangzhou, China, in June 2024. During my doctoral studies, my major is Cyberspace Security and my supervisor is Professor Weiqi Luo (https://cse.sysu.edu.cn/content/2499). I am currently a lecture with the School of Software (School of Cyberspace Security), Nanchang University. 
+My Name is Kangkang Wei. I received the Ph.D. degree in School of Computer Science and Technology from Sun Yat-sen University, Guangzhou, China, in June 2024. During my doctoral studies, my major is Cyberspace Security and my supervisor is Professor <a href='https://cse.sysu.edu.cn/content/2499'>Weiqi Luo. I am currently a lecture with the School of Software (School of Cyberspace Security), Nanchang University. 
 
 My research interest includes **multimedia content security (e.g., steganalysis and steganography) and multimedia forensics (e.g. AI generated image and deepfake detection)**. I have published more than 15+ papers at the mainstream journal and international conferences with total <a href='https://scholar.google.com/citations?user=JMhEzSgAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>230+</span></strong>.
 
