@@ -11,13 +11,13 @@ main:
 
 
   - title: "Projects"
-    url: "/#-educations"
+    url: "/#-projects"
 
   - title: "Academic activity"
-    url: "/#-honors-and-awards"
+    url: "/#-academic activity"
 
   - title: "Resources"
-    url: "/#-internships"
+    url: "/#-resources"
 
   - title: "People"
-    url: "/#-internships"
+    url: "/#-people"
