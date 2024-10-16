@@ -44,7 +44,7 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 # 📝 Publications 
 ## Journal
 
-1. From July 2024 until now:
+· From July 2024 until now:
 
 - [1] Weiqi Luo, **Kangkang Wei**, Qiushi Li, Shunquan Tan, Weixuan Tang, and Jiwu Huang. A Comprehensive Survey of Digital Image Steganography and Steganalysis. APSIPA Transactions on Signal and Information Processing, 2024. (Accepted)
 - [2] **Kangkang Wei**, Weiqi Luo, and Jiwu Huang. Color Image Steganalysis Based on Pixel Difference Convolution and Enhanced Transformer with Selective Pooling. IEEE Transactions on Information Forensics and Security. (In Peer Review)
@@ -52,7 +52,7 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 - [4] 周赛星，骆伟祺，廖鑫，**魏康康**，基于生成多对抗网络和分阶段训练-嵌入的彩色图像隐写，软件学报. （审稿中）
 ————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————  
 
-2. Before June 2024:
+· Before June 2024:
    
 - [1] **Kangkang Wei**, Weiqi Luo, Shunquan Tan, and Jiwu Huang. Universal deep network for steganalysis of color image based on channel representation. IEEE Transactions on Information Forensics and Security, 17: 3022-3036, 2022. (CCF-A)
 - [2] **魏康康**，骆伟祺，刘明林。基于中心差分卷积和注意力的空域彩色图像隐写分析。软件学报，2024。(CCF-A)
