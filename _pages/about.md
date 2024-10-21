@@ -21,7 +21,7 @@ redirect_from:
 # 🧑‍🏫 Biography
 My Name is Kangkang Wei. I received the Ph.D. degree in School of Computer Science and Technology from Sun Yat-sen University, Guangzhou, China, in June 2024. During my doctoral studies, my major is Cyberspace Security and my supervisor is Professor [Weiqi Luo](https://cse.sysu.edu.cn/content/2499). I am currently a lecture with the School of Software (School of Cyberspace Security), Nanchang University. 
 
-My research interest includes **multimedia content security (e.g., steganalysis and steganography) and multimedia forensics (e.g. AI generated image and deepfake detection)**. I have published more than 15+ papers at the mainstream journal and international conferences with total <a href='https://scholar.google.com/citations?user=JMhEzSgAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>230+</span></strong>.
+My research interest includes **multimedia content security (e.g., steganalysis and steganography) and multimedia forensics (e.g. AI generated image and deepfake detection)**. I have published more than 15+ papers at the mainstream journal (e.g., IEEE TIFS et al.) and international conferences with total <a href='https://scholar.google.com/citations?user=JMhEzSgAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>230+</span></strong>.
 
 ## Research interest
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Model</div><img src='images/relation.png' alt="sym" width="120%"></div></div>
@@ -34,9 +34,9 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 A paper is accepted by the the IEEE Transactions on Information Forensics and Security. (CCF-A)
 - *2024.10*: &nbsp;🎉🎉 A paper is accepted by the APSIPA Transactions on Signal and Information Processing. (Overview). 
-- *2024.09*: &nbsp;🎉🎉 A project is approved.
-- *2024.04*: &nbsp;🎉🎉 A paper has been submitted to the IEEE Transactions on Information Forensics and Security. (about steganalysis)
+- *2024.09*: &nbsp;🎉🎉 An open project is approved.
 - *2024.04*: &nbsp;🎉🎉 A paper has been submitted to the IEEE Transactions on Network Science and Engineering. (about adversarial attack)
 - *2023.10*: &nbsp;🎉🎉 A paper is accepted by the Journal of Software.
 
@@ -46,8 +46,8 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 
 · From July 2024 until now:
 
-- [1] Weiqi Luo, **Kangkang Wei**, Qiushi Li, Shunquan Tan, Weixuan Tang, and Jiwu Huang. A Comprehensive Survey of Digital Image Steganography and Steganalysis. APSIPA Transactions on Signal and Information Processing, 2024. (Accepted)
-- [2] **Kangkang Wei**, Weiqi Luo, and Jiwu Huang. Color Image Steganalysis Based on Pixel Difference Convolution and Enhanced Transformer with Selective Pooling. IEEE Transactions on Information Forensics and Security. (In Peer Review)
+- [1] **Kangkang Wei**, Weiqi Luo, and Jiwu Huang. Color Image Steganalysis Based on Pixel Difference Convolution and Enhanced Transformer with Selective Pooling. IEEE Transactions on Information Forensics and Security, 2024. (Accepted)
+- [2] Weiqi Luo, **Kangkang Wei**, Qiushi Li, Shunquan Tan, Weixuan Tang, and Jiwu Huang. A Comprehensive Survey of Digital Image Steganography and Steganalysis. APSIPA Transactions on Signal and Information Processing, 2024. (Accepted)
 - [3] Chen Wan and **Kangkang Wei**. Improving the Transferability of Adversarial Examples via Prediction-Correction. IEEE Transactions on Network Science and Engineering. (In Peer Review)
 - [4] 周赛星，骆伟祺，廖鑫，**魏康康**，基于生成多对抗网络和分阶段训练-嵌入的彩色图像隐写，软件学报. （审稿中）
 ————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————  
