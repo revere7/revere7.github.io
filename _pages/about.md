@@ -39,7 +39,6 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 - *2024.10*: &nbsp;🎉🎉 A paper is accepted by the APSIPA Transactions on Signal and Information Processing. (Overview). 
 - *2024.09*: &nbsp;🎉🎉 An open project is approved.
 - *2024.04*: &nbsp;🎉🎉 A paper has been submitted to the IEEE Transactions on Network Science and Engineering. (about adversarial attack)
-- *2023.10*: &nbsp;🎉🎉 A paper is accepted by the Journal of Software.
 
 
 # 📝 Publications 
