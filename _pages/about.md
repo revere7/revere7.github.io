@@ -88,9 +88,4 @@ The courses I teach:
 - Undergraduate student: Qianqian Wang, yifei Huang, Junhao Liu
 
 The research group is recuriting students: If you are willing to study and conduct research with me, please contact my Email：kkwei@ncu.edu.cn.
-<font color="red">In addition, I am also recruiting co-supervised master's degree students in 2025, so if you wish to join my research group you can contact me as soon as possible.<font>
-
-
-# 🗺️ Visitor Map
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
-
+📢 <font color="red">In addition, I am also recruiting co-supervised master's degree students in 2025, so if you wish to join my research group you can contact me as soon as possible.<font>
