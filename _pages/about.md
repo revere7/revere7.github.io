@@ -46,19 +46,21 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 · From July 2024 until now:
 
 - [1] **Kangkang Wei**, Weiqi Luo, and Jiwu Huang. Color Image Steganalysis Based on Pixel Difference Convolution and Enhanced Transformer with Selective Pooling. IEEE Transactions on Information Forensics and Security, 19: 9970-9983, 2024. (CCF-A). [[Pdf]](https://ieeexplore.ieee.org/document/10734380)    [[Code]](https://github.com/revere7/PENet_Steganalysis)   
- [[Bibtex]](https://cse.sysu.edu.cn/content)
-- [2] Weiqi Luo, **Kangkang Wei**, Qiushi Li, Shunquan Tan, Weixuan Tang, and Jiwu Huang. A Comprehensive Survey of Digital Image Steganography and Steganalysis. APSIPA Transactions on Signal and Information Processing, 13(1), 2024. (Overview)
+ [[Bibtex]](javascript:alert('这是一个文本页面'))
+- [2] Weiqi Luo, **Kangkang Wei**, Qiushi Li, Shunquan Tan, Weixuan Tang, and Jiwu Huang. A Comprehensive Survey of Digital Image Steganography and Steganalysis. APSIPA Transactions on Signal and Information Processing, 13(1), 2024. (Overview) [[Pdf]](https://ieeexplore.ieee.org/document/10734380)
 ————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————  
 
 · Before June 2024:
    
-- [1] **Kangkang Wei**, Weiqi Luo, Shunquan Tan, and Jiwu Huang. Universal deep network for steganalysis of color image based on channel representation. IEEE Transactions on Information Forensics and Security, 17: 3022-3036, 2022. (CCF-A)
-- [2] **魏康康**，骆伟祺，刘明林。基于中心差分卷积和注意力的空域彩色图像隐写分析。软件学报，2024。(CCF-A)
+- [1] **Kangkang Wei**, Weiqi Luo, Shunquan Tan, and Jiwu Huang. Universal deep network for steganalysis of color image based on channel representation. IEEE Transactions on Information Forensics and Security, 17: 3022-3036, 2022. (CCF-A)  [[Pdf]](https://ieeexplore.ieee.org/document/10734380)    [[Code]](https://github.com/revere7/PENet_Steganalysis)   
+ [[Bibtex]](javascript:alert('这是一个文本页面'))
+- [2] **魏康康**，骆伟祺，刘明林。基于中心差分卷积和注意力的空域彩色图像隐写分析。软件学报，2024。(CCF-A)  [[Pdf]](https://ieeexplore.ieee.org/document/10734380)    [[Code]](https://github.com/revere7/PENet_Steganalysis)   
+ [[Bibtex]](javascript:alert('这是一个文本页面'))
 - [3] **Kangkang Wei**, Weiqi Luo, Shunquan Tan, Jiwu Huang. CTNet: A convolutional Transformer network for color image steganalysis. Journal of Computer Science and Technology, 2023. (CCF-B)
 - [4] **Kangkang Wei**, Weiqi Luo, Minlin Liu, and Miaoxin Ye. Residual guided coordinate attention for selection channel aware image steganalysis. Multimedia Systems, 29(4): 2125-2135, 2023. (CCF-C)
-- [5] **Kangkang Wei**, Wenying Wen, Yuming Fang. Light field image encryption based on spatial-angular characteristic. Signal Processing, 185: 108080, 2021.
-- [6] Wenying Wen, **Kangkang Wei**, Yuming Fang, Yushu Zhang. Visual quality assessment for perceptually encrypted light field images. IEEE Transactions on Circuits and Systems for Video Technology, 31(7): 2522-2534, 2020.
-- [7]  Wenying Wen, **Kangkang Wei**, Yushu Zhang, Yuming Fang, and Ming Li. Colour light field image encryption based on DNA sequences and chaotic systems. Nonlinear Dynamics,  99: 1587-1600, 2020.
+- [5] **Kangkang Wei**, et al. Light field image encryption based on spatial-angular characteristic. Signal Processing, 185: 108080, 2021.
+- [6] W. Wen, **Kangkang Wei**, et al. Visual quality assessment for perceptually encrypted light field images. IEEE Transactions on Circuits and Systems for Video Technology, 31(7): 2522-2534, 2020.
+- [7]  W. Wen, **Kangkang Wei**, et al. Colour light field image encryption based on DNA sequences and chaotic systems. Nonlinear Dynamics,  99: 1587-1600, 2020.
 - [8] Minglin Liu, Hangyu Fan, **Kangkang Wei**, Weiqi Luo, Wei Lu, Adversarial robust image steganography against lossy JPEG compression, Signal Processing, Volume 200, 2022.
 
 
