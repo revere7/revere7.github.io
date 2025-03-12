@@ -45,7 +45,7 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 
 · From July 2024 until now:
 
-- [1] **Kangkang Wei**, Weiqi Luo, and Jiwu Huang. Color Image Steganalysis Based on Pixel Difference Convolution and Enhanced Transformer with Selective Pooling. IEEE Transactions on Information Forensics and Security, 19: 9970-9983, 2024. (CCF-A). [[Pdf]](https://cse.sysu.edu.cn/content)    [[Code]](https://cse.sysu.edu.cn/content)   
+- [1] **Kangkang Wei**, Weiqi Luo, and Jiwu Huang. Color Image Steganalysis Based on Pixel Difference Convolution and Enhanced Transformer with Selective Pooling. IEEE Transactions on Information Forensics and Security, 19: 9970-9983, 2024. (CCF-A). [[Pdf]](https://ieeexplore.ieee.org/document/10734380)    [[Code]](https://github.com/revere7/PENet_Steganalysis)   
  [[Bibtex]](https://cse.sysu.edu.cn/content)
 - [2] Weiqi Luo, **Kangkang Wei**, Qiushi Li, Shunquan Tan, Weixuan Tang, and Jiwu Huang. A Comprehensive Survey of Digital Image Steganography and Steganalysis. APSIPA Transactions on Signal and Information Processing, 13(1), 2024. (Overview)
 ————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————  
