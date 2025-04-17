@@ -34,7 +34,7 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 A paper is accepted by the the ACM IH & MMSec 2025.
+- *2025.04*: &nbsp;🎉🎉 A paper is accepted by the the ACM IH and MMSec 2025.
 - *2024.12*: &nbsp;🎉🎉 Invited to serve as a young editorial board member of the Journal of Hainan University(Natural Science).
 - *2024.10*: &nbsp;🎉🎉 A paper is accepted by the the IEEE Transactions on Information Forensics and Security. (CCF-A)
 - *2024.10*: &nbsp;🎉🎉 A paper is accepted by the APSIPA Transactions on Signal and Information Processing. (Overview). 
@@ -48,7 +48,7 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 - [2] Weiqi Luo, **Kangkang Wei**, Qiushi Li, Shunquan Tan, Weixuan Tang, and Jiwu Huang. A Comprehensive Survey of Digital Image Steganography and Steganalysis. APSIPA Transactions on Signal and Information Processing, 13(1), 2024. (Overview) [[Pdf]](https://www.nowpublishers.com/article/Details/SIP-20240038)
 
 ## Conference
-- [1] Saixing Zhou, Miaoxin Ye, Weiqi Luo, Xin Liao, **Kangkang Wei**. Color Image Steganography Using Generative Adversarial Networks with a Phased Training Strategy, ACM IH & MMsec 2025, to appear.
+- [1] Saixing Zhou, Miaoxin Ye, Weiqi Luo, Xin Liao, **Kangkang Wei**. Color Image Steganography Using Generative Adversarial Networks with a Phased Training Strategy, ACM IH and MMsec 2025, to appear.
 ————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————  
 
 · Before June 2024:
