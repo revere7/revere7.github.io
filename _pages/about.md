@@ -34,23 +34,25 @@ My research interest includes **multimedia content security (e.g., steganalysis 
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Two co-authored papers have been submitted to ICCV 2025 and ACM IHMMSec 2025.
+- *2025.04*: &nbsp;🎉🎉 A paper is accepted by the the ACM IH & MMSec 2025.
 - *2024.12*: &nbsp;🎉🎉 Invited to serve as a young editorial board member of the Journal of Hainan University(Natural Science).
 - *2024.10*: &nbsp;🎉🎉 A paper is accepted by the the IEEE Transactions on Information Forensics and Security. (CCF-A)
 - *2024.10*: &nbsp;🎉🎉 A paper is accepted by the APSIPA Transactions on Signal and Information Processing. (Overview). 
 
 
 # 📝 Publications 
-## Journal
 
 · From July 2024 until now:
-
+## Journal
 - [1] **Kangkang Wei**, Weiqi Luo, and Jiwu Huang. Color Image Steganalysis Based on Pixel Difference Convolution and Enhanced Transformer with Selective Pooling. IEEE Transactions on Information Forensics and Security, 19: 9970-9983, 2024. (CCF-A). [[Pdf]](https://ieeexplore.ieee.org/document/10734380)    [[Code]](https://github.com/revere7/PENet_Steganalysis)   
 - [2] Weiqi Luo, **Kangkang Wei**, Qiushi Li, Shunquan Tan, Weixuan Tang, and Jiwu Huang. A Comprehensive Survey of Digital Image Steganography and Steganalysis. APSIPA Transactions on Signal and Information Processing, 13(1), 2024. (Overview) [[Pdf]](https://www.nowpublishers.com/article/Details/SIP-20240038)
+
+## Conference
+- [1] Saixing Zhou, Miaoxin Ye, Weiqi Luo, Xin Liao, **Kangkang Wei**. Color Image Steganography Using Generative Adversarial Networks with a Phased Training Strategy, ACM IH & MMsec 2025, to appear.
 ————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————  
 
 · Before June 2024:
-   
+## Journal
 - [1] **Kangkang Wei**, Weiqi Luo, Shunquan Tan, and Jiwu Huang. Universal deep network for steganalysis of color image based on channel representation. IEEE Transactions on Information Forensics and Security, 17: 3022-3036, 2022. (CCF-A)  [[Pdf]](https://ieeexplore.ieee.org/document/9851403)    [[Code]](https://github.com/revere7/UCNet_Steganalysis)   
 - [2] **魏康康**，骆伟祺，刘明林。基于中心差分卷积和注意力的空域彩色图像隐写分析。软件学报，2024。(CCF-A)  [[Pdf]](https://www.jos.org.cn/jos/article/abstract/7068?st=search)    [[Code]](https://github.com/revere7/CANet)   
 - [3] **Kangkang Wei**, Weiqi Luo, Shunquan Tan, Jiwu Huang. CTNet: A convolutional Transformer network for color image steganalysis. Journal of Computer Science and Technology, 2023. (CCF-B)
